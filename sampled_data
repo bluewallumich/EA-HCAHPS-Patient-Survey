@@ -1,0 +1,101 @@
+State,State Name,Region,Release Period,Facility ID,Completed Surveys,Response Rate (%)
+TX,Texas,West South Central,07/2023,450135,2695,13
+CA,California,Pacific,07/2017,50767,1599,32
+OH,Ohio,East North Central,07/2020,360035,4720,23
+MD,Maryland,South Atlantic,07/2020,210040,696,16
+CO,Colorado,Mountain,07/2021,60100,1037,17
+CA,California,Pacific,07/2020,50367,402,17
+IL,Illinois,East North Central,07/2018,140162,783,31
+NE,Nebraska,West North Central,07/2021,280130,882,27
+OH,Ohio,East North Central,07/2022,360109,381,27
+FL,Florida,South Atlantic,07/2015,100248,300,30
+ID,Idaho,Mountain,07/2022,131328,262,26
+TN,Tennessee,East South Central,07/2015,440194,300,30
+GA,Georgia,South Atlantic,07/2019,110024,539,16
+MT,Montana,Mountain,07/2016,271316,149,35
+NV,Nevada,Mountain,07/2023,290041,619,13
+LA,Louisiana,West South Central,07/2021,190011,314,11
+GA,Georgia,South Atlantic,07/2023,111334,40,22
+TX,Texas,West South Central,07/2020,450893,222,36
+CT,Connecticut,New England,07/2017,70022,821,21
+NV,Nevada,Mountain,07/2017,290008,349,24
+MS,Mississippi,East South Central,07/2020,250096,168,14
+OR,Oregon,Pacific,07/2023,381302,147,22
+OR,Oregon,Pacific,07/2023,380002,1614,33
+NM,New Mexico,Mountain,07/2015,320089,300,24
+NH,New Hampshire,New England,07/2023,300014,256,18
+OK,Oklahoma,West South Central,07/2017,370039,464,24
+WI,Wisconsin,East North Central,07/2021,521336,185,32
+IA,Iowa,West North Central,07/2016,161359,173,31
+IN,Indiana,East North Central,07/2023,150058,444,23
+OH,Ohio,East North Central,07/2023,360064,890,22
+KY,Kentucky,East South Central,07/2020,180056,367,15
+FL,Florida,South Atlantic,07/2023,100289,1099,19
+MN,Minnesota,West North Central,07/2016,241301,25,30
+OH,Ohio,East North Central,07/2017,360274,77,33
+WA,Washington,Pacific,07/2019,500053,838,19
+FL,Florida,South Atlantic,07/2020,100040,3552,33
+WI,Wisconsin,East North Central,07/2015,521349,250,47
+TN,Tennessee,East South Central,07/2019,44013F,378,30
+ID,Idaho,Mountain,07/2015,130065,300,50
+MN,Minnesota,West North Central,07/2023,240214,695,21
+CA,California,Pacific,07/2020,50320,1338,20
+OH,Ohio,East North Central,07/2021,361310,111,40
+ID,Idaho,Mountain,07/2023,131309,46,32
+IL,Illinois,East North Central,07/2020,140150,417,9
+WV,West Virginia,South Atlantic,07/2021,51005F,346,36
+WI,Wisconsin,East North Central,07/2019,520095,668,55
+WI,Wisconsin,East North Central,07/2015,520189,300,29
+GA,Georgia,South Atlantic,07/2019,110113,45,32
+WI,Wisconsin,East North Central,07/2018,520138,2012,27
+CA,California,Pacific,07/2018,50393,589,15
+CA,California,Pacific,07/2022,51323,36,12
+VT,Vermont,New England,07/2023,470003,1859,23
+MT,Montana,Mountain,07/2015,271313,50,48
+AL,Alabama,East South Central,07/2023,10095,81,28
+MN,Minnesota,West North Central,07/2016,241356,118,29
+KS,Kansas,West North Central,07/2021,171355,37,16
+FL,Florida,South Atlantic,07/2018,100268,624,20
+NH,New Hampshire,New England,07/2022,301305,182,32
+WI,Wisconsin,East North Central,07/2019,521328,76,43
+OH,Ohio,East North Central,07/2019,361307,338,33
+WY,Wyoming,Mountain,07/2018,531313,184,32
+LA,Louisiana,West South Central,07/2015,190303,250,34
+LA,Louisiana,West South Central,07/2023,190313,167,23
+IL,Illinois,East North Central,07/2021,140276,2938,19
+OH,Ohio,East North Central,07/2015,360274,250,49
+NE,Nebraska,West North Central,07/2023,28006F,462,39
+CA,California,Pacific,07/2016,50168,2298,28
+KS,Kansas,West North Central,07/2023,171345,33,25
+UT,Utah,Mountain,07/2017,460007,700,32
+IL,Illinois,East North Central,07/2023,140137,69,27
+CT,Connecticut,New England,07/2019,70012,266,23
+AL,Alabama,East South Central,07/2022,10021,130,19
+CA,California,Pacific,07/2021,50588,449,27
+OH,Ohio,East North Central,07/2021,360006,3069,24
+UT,Utah,Mountain,07/2018,460015,1376,27
+GA,Georgia,South Atlantic,07/2019,110143,1299,14
+NV,Nevada,Mountain,07/2015,291306,50,36
+CA,California,Pacific,07/2022,50313,483,18
+MS,Mississippi,East South Central,07/2022,250094,654,14
+NY,New York,Mid-Atlantic,07/2021,330233,784,9
+KS,Kansas,West North Central,07/2017,171355,25,34
+WA,Washington,Pacific,07/2016,500027,3547,29
+WY,Wyoming,Mountain,07/2015,531310,50,25
+TX,Texas,West South Central,07/2017,450090,147,16
+GA,Georgia,South Atlantic,07/2015,110135,250,33
+CA,California,Pacific,07/2021,50324,3407,28
+TX,Texas,West South Central,07/2023,450862,700,15
+TN,Tennessee,East South Central,07/2016,440029,775,34
+AZ,Arizona,Mountain,07/2017,30087,2048,23
+AR,Arkansas,West South Central,07/2016,40022,1938,28
+KY,Kentucky,East South Central,07/2018,180035,3883,34
+TX,Texas,West South Central,07/2018,451331,25,17
+TX,Texas,West South Central,07/2022,451330,30,9
+CT,Connecticut,New England,07/2020,70029,388,22
+CA,California,Pacific,07/2018,50089,402,9
+GA,Georgia,South Atlantic,07/2015,110200,300,50
+KS,Kansas,West North Central,07/2019,170020,753,25
+WI,Wisconsin,East North Central,07/2023,521308,240,33
+KY,Kentucky,East South Central,07/2021,181311,48,36
+TX,Texas,West South Central,07/2016,450021,1902,23
