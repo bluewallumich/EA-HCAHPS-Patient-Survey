@@ -1,7 +1,8 @@
  HCAHPS Hospital Scores Analysis
 
 ## Description
-An analysis of HCAHPS scores from various hospitals across the United States over a 9-year span. This repository contains data processing scripts, PowerBI visualizations, and machine learning models to provide insights into hospitals' performance and suggest improvements in patient care.
+This is a brief and unfinished Mavenanalytics.io project I started working on.  It will serve as a practice space since I have not done Data Science in one year.
+What will go here is an analysis of HCAHPS scores from various hospitals across the United States over a 9-year span. This repository contains data processing notebooks, PowerBI visualizations, and machine learning models to provide insights into hospitals' performance and suggest improvements in patient care. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,11 +13,11 @@ An analysis of HCAHPS scores from various hospitals across the United States ove
 ## Installation
 1. Clone the repository:
    ```bash
-      git clone https://github.com/your_username/HCAHPS-Hospital-Scores-Analysis.git
+   git clone https://github.com/bluewall/HCAHPS-Patient-Survey.git
 
 2. Navigate to the project directory:
    ```bash
-   cd HCAHPS-Hospital-Scores-Analysis
+   cd HCAHPS-Patient-Survey
 
 3. Install the required Python packages using pip:
    pip install -r requirements.txt
